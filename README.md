@@ -1,1 +1,3 @@
-"# Cupid-Client-SRC" 
+Learn to code before releasing a client.
+
+
