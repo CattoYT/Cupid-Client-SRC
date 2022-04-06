@@ -1,0 +1,11 @@
+name: ViaRewind
+version: 1.5.3-SNAPSHOT
+main: de.gerrygames.viarewind.BukkitPlugin
+api-version: 1.13
+
+authors: [Gerrygames]
+website: https://viaversion.com/rewind
+
+load: STARTUP
+depend: [ViaVersion]
+softdepend: [ViaBackwards]

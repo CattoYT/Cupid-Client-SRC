@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: ryand
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 1.8.0_322
+Main-Class: net.minecraft.Start
+
